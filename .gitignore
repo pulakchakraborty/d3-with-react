@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/d3-app-1/node_modules
+/d3-app-1/.pnp
+/d3-app-1.pnp.js
+
+# testing
+/d3-app-1/coverage
+
+# production
+/d3-app-1/build
+
+# misc
+/d3-app-1.DS_Store
+/d3-app-1.env.local
+/d3-app-1.env.development.local
+/d3-app-1.env.test.local
+/d3-app-1.env.production.local
+
+/d3-app-1npm-debug.log*
+/d3-app-1yarn-debug.log*
+/d3-app-1yarn-error.log*
